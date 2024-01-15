@@ -22,7 +22,7 @@ Create your own Android application of your Web Site/YouTube Channel within a fe
 ```
 
 # Cost
-> Price `` $8 USD Only ``
+> Price `` $8.99 USD ``
 
 # Screenshot
 | | | |
