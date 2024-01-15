@@ -17,3 +17,9 @@ Create your own Android application of your Web Site/YouTube Channel within a fe
 2. Mobile Responsive Website.
 3. Basic Knowledge about Android Studio
 ```
+
+# Change log
+| Version 1.0                          |
+| ----------------------------- |
+| Released Date: 13 Jan 2024                  |
+| #Initial Release                  |
