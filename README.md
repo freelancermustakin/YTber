@@ -42,7 +42,11 @@ Create your own Android application of your Web Site/YouTube Channel within a fe
 | <img src=".assets/screenshot_v1/screenshots/screenshot_2.png" /> | <img src=".assets/screenshot_v1/screenshots/screenshot_3.png" /> | <img src=".assets/screenshot_v1/screenshots/screenshot_4.png" /> | <img src=".assets/screenshot_v1/screenshots/screenshot_5.png" /> | <img src=".assets/screenshot_v1/screenshots/screenshot_6.png" /> |
 | <img src=".assets/screenshot_v1/screenshots/screenshot_7.png" /> | <img src=".assets/screenshot_v1/screenshots/screenshot_8.png" /> |  |  |  |
 
+## Download
+* [Latest version release](https://github.com/quasar/Quasar/releases) (recommended)
+* [version v1.0 apk](https://ci.appveyor.com/project/MaxXor/quasar)
 
+## Developer contact
 If you are not familiar with android studio or don’t know how to build and publish app. Ill help you with building and publishing app on play store. contact at
 
 Join [Facebook](https://facebook.com/freelancermustakin) <br>
