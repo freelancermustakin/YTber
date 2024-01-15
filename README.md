@@ -28,15 +28,16 @@ Create your own Android application of your Web Site/YouTube Channel within a fe
 | <img src=".assets/screenshot_v1/screenshot_v04.png" /> | <img src=".assets/screenshot_v1/screenshot_v05.png" /> | <img src=".assets/screenshot_v1/screenshot_v06.png" /> |
 | | <img src=".assets/screenshot_v1/screenshot_v07.png" /> | |
 
-![screenshot](.assets/screenshot_v1/screenshot_v01.png)
-![screenshot](.assets/screenshot_v1/screenshot_v02.png)
-![screenshot](.assets/screenshot_v1/screenshot_v03.png)
-
 # Change log
 | Version 1.0                          |
 | ----------------------------- |
 | Released Date: 13 Jan 2024                  |
 | #Initial Release                  |
+
+| | | | | |
+|:-------------------------:|:-------------------------:|:-------------------------:|:-------------------------:|:-------------------------:|
+| <img src=".assets/screenshot_v1/screenshots/screenshot_2.png" /> | <img src=".assets/screenshot_v1/screenshots/screenshot_3.png" /> | <img src=".assets/screenshot_v1/screenshots/screenshot_4.png" /> | <img src=".assets/screenshot_v1/screenshots/screenshot_5.png" /> | <img src=".assets/screenshot_v1/screenshots/screenshot_6.png" /> |
+| <img src=".assets/screenshot_v1/screenshots/screenshot_7.png" /> | <img src=".assets/screenshot_v1/screenshots/screenshot_8.png" /> |  |  |  |
 
 
 If you are not familiar with android studio or don’t know how to build and publish app. Ill help you with building and publishing app on play store. contact at
