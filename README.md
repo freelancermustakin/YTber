@@ -3,8 +3,10 @@ Create your own Android application of your Web Site/YouTube Channel within a fe
 
 `` কয়েক মিনিটের মধ্যে আপনার ওয়েব সাইট/ইউটিউব চ্যানেলের আপনার নিজস্ব অ্যান্ড্রয়েড অ্যাপ্লিকেশন তৈরি করুন। এটির একটি ওয়েব-ভিউ অ্যাপ্লিকেশন তৈরি করতে আপনার কেবল একটি মোবাইল প্রতিক্রিয়াশীল ওয়েবসাইট থাকতে হবে। ``
 
+> Price `` $8 USD Only ``
+
 # Features
-> WebView / YouTube
+* WebView / YouTube
 * Easy integration.
 * Flash Screen.
 * Pull Down to Refresh.
