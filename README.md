@@ -25,3 +25,11 @@ Create your own Android application of your Web Site/YouTube Channel within a fe
 | ----------------------------- |
 | Released Date: 13 Jan 2024                  |
 | #Initial Release                  |
+
+
+If you are not familiar with android studio or don’t know how to build and publish app. Ill help you with building and publishing app on play store. contact at
+
+Join [Facebook](https://facebook.com/freelancermustakin) <br>
+Join [Telegram](https://t.me/mustakin) <br>
+Join [Telegram Channel](https://t.me/freelancermustakin) <br>
+Join [YouTube](https://m.youtube.com/freelancermustakin) <br>
