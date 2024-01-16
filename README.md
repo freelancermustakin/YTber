@@ -21,10 +21,10 @@ Create your own Android application of your Web Site/YouTube Channel within a fe
 3. Basic Knowledge about Android Studio
 ```
 
-# Cost
+## Cost
 > Price `` $8.99 USD ``
 
-# Screenshot
+## Screenshot
 | | |
 |:-------------------------:|:-------------------------:|
 | <img src=".assets/screenshot_v1/screenshot_v01.png" /> | <img src=".assets/screenshot_v1/screenshot_v02.png" /> |
@@ -36,7 +36,7 @@ Create your own Android application of your Web Site/YouTube Channel within a fe
 * [Latest version release](https://github.com/freelancermustakin/YTber/raw/main/.assets/screenshot_v1/YTber_v1.0_app-release.apk) (recommended)
 * [version v1.0 apk](https://github.com/freelancermustakin/YTber/raw/main/.assets/screenshot_v1/YTber_v1.0_app-release.apk)
 
-# Change log
+## Change log & updates
 | Version 1.0                          |
 | ----------------------------- |
 | Released Date: 13 Jan 2024                  |
