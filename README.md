@@ -12,6 +12,7 @@ Create your own Android application of your Web Site/YouTube Channel within a fe
 * Open in browser.
 * Files Download Support.
 * WebView: YouTube, fb and webpage.
+* Custom banner Ads by admob/adsense.
 * Custom Alert on No Internect Connection.
 
 # Requirements
@@ -47,6 +48,12 @@ Create your own Android application of your Web Site/YouTube Channel within a fe
 |:-------------------------:|:-------------------------:|:-------------------------:|:-------------------------:|:-------------------------:|
 | <img src=".assets/screenshot_v1/screenshots/screenshot_2.png" /> | <img src=".assets/screenshot_v1/screenshots/screenshot_3.png" /> | <img src=".assets/screenshot_v1/screenshots/screenshot_4.png" /> | <img src=".assets/screenshot_v1/screenshots/screenshot_5.png" /> | <img src=".assets/screenshot_v1/screenshots/screenshot_6.png" /> |
 | <img src=".assets/screenshot_v1/screenshots/screenshot_7.png" /> | <img src=".assets/screenshot_v1/screenshots/screenshot_8.png" /> |  |  |  |
+
+| Version 1.3.2.0                          |
+| ----------------------------- |
+| Released Date: 16 Jan 2024                  |
+| #Initial 2nd Release                  |
+| #Implement Admob Ads                  |
 
 ## Developer contact
 If you are not familiar with android studio or don’t know how to build and publish app. Ill help you with building and publishing app on play store. contact at
