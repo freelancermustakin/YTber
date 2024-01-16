@@ -12,7 +12,7 @@ Create your own Android application of your Web Site/YouTube Channel within a fe
 * Open in browser.
 * Files Download Support.
 * WebView: YouTube, fb and webpage.
-* Custom banner Ads by admob/adsense.
+* Custom banner Ads (admob/adsense).
 * Custom Alert on No Internect Connection.
 
 # Requirements
