@@ -28,10 +28,10 @@ Create your own Android application of your Web Site/YouTube Channel within a fe
 ## Screenshot
 | | |
 |:-------------------------:|:-------------------------:|
-| <img src=".assets/screenshot_v1/screenshot_v01.png" /> | <img src=".assets/screenshot_v1/screenshot_v02.png" /> |
-| <img src=".assets/screenshot_v1/screenshot_v03.png" /> | <img src=".assets/screenshot_v1/screenshot_v04.png" /> |
-| <img src=".assets/screenshot_v1/screenshot_v05.png" /> | <img src=".assets/screenshot_v1/screenshot_v06.png" /> |
-| <img src=".assets/screenshot_v1/screenshot_v07.png" /> |
+| <img src=".assets/screenshot_v2/screenshot_v01.png" /> | <img src=".assets/screenshot_v2/screenshot_v02.png" /> |
+| <img src=".assets/screenshot_v2/screenshot_v03.png" /> | <img src=".assets/screenshot_v2/screenshot_v04.png" /> |
+| <img src=".assets/screenshot_v2/screenshot_v05.png" /> | <img src=".assets/screenshot_v2/screenshot_v06.png" /> |
+| <img src=".assets/screenshot_v2/screenshot_v07.png" /> |
 
 ## Download
 * [Latest version release](https://github.com/freelancermustakin/YTber/raw/main/.assets/screenshot_v2/YTber_v1.3.2.0_app-release.apk) (recommended)
@@ -54,6 +54,11 @@ Create your own Android application of your Web Site/YouTube Channel within a fe
 | Released Date: 16 Jan 2024                  |
 | #Initial 2nd Release                  |
 | #Implement Admob Ads                  |
+
+| | | | | |
+|:-------------------------:|:-------------------------:|:-------------------------:|:-------------------------:|:-------------------------:|
+| <img src=".assets/screenshot_v2/screenshots/screenshot_2.png" /> | <img src=".assets/screenshot_v2/screenshots/screenshot_3.png" /> | <img src=".assets/screenshot_v2/screenshots/screenshot_4.png" /> | <img src=".assets/screenshot_v2/screenshots/screenshot_5.png" /> | <img src=".assets/screenshot_v2/screenshots/screenshot_6.png" /> |
+| <img src=".assets/screenshot_v2/screenshots/screenshot_7.png" /> | <img src=".assets/screenshot_v2/screenshots/screenshot_8.png" /> |  |  |  |
 
 ## Developer contact
 If you are not familiar with android studio or don’t know how to build and publish app. Ill help you with building and publishing app on play store. contact at
