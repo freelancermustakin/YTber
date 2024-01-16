@@ -33,8 +33,9 @@ Create your own Android application of your Web Site/YouTube Channel within a fe
 | <img src=".assets/screenshot_v1/screenshot_v07.png" /> |
 
 ## Download
-* [Latest version release](https://github.com/freelancermustakin/YTber/raw/main/.assets/screenshot_v1/YTber_v1.0_app-release.apk) (recommended)
+* [Latest version release](https://github.com/freelancermustakin/YTber/raw/main/.assets/screenshot_v2/YTber_v1.3.2.0_app-release.apk) (recommended)
 * [version v1.0 apk](https://github.com/freelancermustakin/YTber/raw/main/.assets/screenshot_v1/YTber_v1.0_app-release.apk)
+* [version v1.3.2.0 apk](https://github.com/freelancermustakin/YTber/raw/main/.assets/screenshot_v2/YTber_v1.3.2.0_app-release.apk)
 
 ## Change log & updates
 | Version 1.0                          |
